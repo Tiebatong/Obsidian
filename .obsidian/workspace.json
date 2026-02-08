@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "49bb426cd493c4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "776c29cfdbe03fe0",
+        "type": "tabs",
+        "dimension": 69.08844765342961,
+        "children": [
+          {
+            "id": "cfe92298281450e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Rechner_Architektur/Overflow Flag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overflow Flag"
+            }
+          },
+          {
+            "id": "f47b9cdcdc70b3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carry Flag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carry Flag"
+            }
+          }
+        ]
+      },
+      {
+        "id": "536bb4b23ba74ab8",
+        "type": "tabs",
+        "dimension": 30.9115523465704,
+        "children": [
+          {
+            "id": "51ba2cab1a0a5e7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e68aa92e3711d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2dbb143b16b0c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b63c0cb282803d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ba8815a9c84c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59012bb85749e6ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8ce4ceef9128904",
+    "type": "split",
+    "children": [
+      {
+        "id": "11ec949f5db03431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e49a5ceaaf684d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ae0b7c6154bbdd9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b2ba3b640a3b4b79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c929b0e40e549264",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "40f522183dbb0bee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "51ba2cab1a0a5e7b",
+  "lastOpenFiles": [
+    "Uni/Rechner_Architektur/Overflow Flag.md",
+    "XOR.md",
+    "Carry Flag.md",
+    "leave things better.md",
+    "Do things the right way.md",
+    "Pasted image 20260208192500.png",
+    "Uni/Rechner_Architektur/2-er Komplement.md",
+    "Uni/Rechner_Architektur/Latch  FlipFlop.md",
+    "Uni/Rechner_Architektur/2-er Komplement",
+    "Uni/Rechner_Architektur",
+    "Uni",
+    "Welcome.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Untitled 3.base",
+    "create a link.md"
+  ]
+}
