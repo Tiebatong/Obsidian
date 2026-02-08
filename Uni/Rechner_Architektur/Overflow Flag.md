@@ -8,7 +8,7 @@ Overflow entsteht dann, wenn:
 	negativ + negativ = positiv
 		Wenn aus dem letzten [[Adder]] ein Carry raus geht, aber keiner rein.
 
-Das heisst also, dass man den Carry out des vorletzten [[Adder]]s und den Carry out des letzten [[Adder]] mit einem XOR Gatter verbinden kann um damit die [[Overflow Flag]] zu setzen.
+Das heißt also, dass man den Carry out des vorletzten [[Adder]]s und den Carry out des letzten [[Adder]] mit einem XOR Gatter verbinden kann um damit die [[Overflow Flag]] zu setzen.
 
 ![[Pasted image 20260208192500.png]]
 

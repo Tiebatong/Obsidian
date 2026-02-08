@@ -1,0 +1,10 @@
+- [x] IEEE
+- [x] [[2-er Komplement]]
+- [ ] [[Pipelining]]
+- [ ] [[Caching]]
+- [ ] [[DNF KNF]]
+- [x] [[Latch  FlipFlop]]
+- [ ] Probeklausur
+- [ ] Altklausur
+- [ ] Wiederholung 1 - 8
+- [ ] 

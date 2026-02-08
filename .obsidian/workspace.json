@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Rechner_Architektur/Overflow Flag.md",
+                "file": "Uni/Rechner_Architektur/Checkliste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overflow Flag"
+              "title": "Checkliste"
             }
           },
           {
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carry Flag.md",
+                "file": "Uni/Rechner_Architektur/Carry Flag.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,13 +214,14 @@
   },
   "active": "51ba2cab1a0a5e7b",
   "lastOpenFiles": [
+    "Uni/Rechner_Architektur/Checkliste.md",
+    "Uni/Rechner_Architektur/2-er Komplement.md",
     "Uni/Rechner_Architektur/Overflow Flag.md",
     "XOR.md",
-    "Carry Flag.md",
+    "Uni/Rechner_Architektur/Carry Flag.md",
     "leave things better.md",
     "Do things the right way.md",
     "Pasted image 20260208192500.png",
-    "Uni/Rechner_Architektur/2-er Komplement.md",
     "Uni/Rechner_Architektur/Latch  FlipFlop.md",
     "Uni/Rechner_Architektur/2-er Komplement",
     "Uni/Rechner_Architektur",
