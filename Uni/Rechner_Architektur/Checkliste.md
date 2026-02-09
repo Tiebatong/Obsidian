@@ -8,4 +8,4 @@
 - [ ] Probeklausur nacharbeiten
 - [ ] Altklausur
 - [ ] Wiederholung 1 - 8
-- [ ] 
+- [ ] Laptop syncen
