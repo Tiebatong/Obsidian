@@ -12,10 +12,14 @@
             "id": "63a33a0cc69fa020",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DNF KNF.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DNF KNF"
             }
           }
         ]
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DNF KNF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for DNF KNF"
             }
           },
           {
@@ -213,6 +218,8 @@
   },
   "active": "63a33a0cc69fa020",
   "lastOpenFiles": [
+    "Uni/Rechner_Architektur/Checkliste.md",
+    "DNF KNF.md",
     "Uni/Rechner_Architektur/Ersätzungsstartegie.md",
     "Git.md",
     "Ersätzungsstartegie.md",
@@ -229,7 +236,6 @@
     "Pasted image 20260208192500.png",
     "Pasted image 20260209170525.png",
     "Pasted image 20260209170252.png",
-    "Uni/Rechner_Architektur/Checkliste.md",
     "XOR.md",
     "leave things better.md",
     "Do things the right way.md",
