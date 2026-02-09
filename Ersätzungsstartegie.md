@@ -1,5 +1,7 @@
 werden von manchen [[Caching]] Arten genutzt.
 
+TEST TEST TEST
+
 Falls Daten im Cache gespeichert werden sollen, aber kein Platz mehr frei ist muss entschieden werden, welcher Eintrag gelöscht wird.
 
 ## Least Recently Used (LRU)
