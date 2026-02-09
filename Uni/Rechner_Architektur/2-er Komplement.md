@@ -1,7 +1,7 @@
 
 um negative Zahlen in binär zu speichern wird das 2-er Komplement verwendet.
 
-PULL TEST
+
 
 bei positiven Zahlen ist das most significant bit 0, bei negativen 1.
 
