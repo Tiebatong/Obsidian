@@ -5,6 +5,7 @@
 - [ ] [[DNF KNF]]
 - [x] [[Latch  FlipFlop]]
 - [ ] Probeklausur
+- [ ] Probeklausur nacharbeiten
 - [ ] Altklausur
 - [ ] Wiederholung 1 - 8
 - [ ] 
