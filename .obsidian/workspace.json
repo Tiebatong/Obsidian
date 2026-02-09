@@ -12,14 +12,10 @@
             "id": "63a33a0cc69fa020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Rechner_Architektur/Ersätzungsstartegie.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ersätzungsstartegie"
+              "title": "New tab"
             }
           }
         ]
@@ -116,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Rechner_Architektur/Ersätzungsstartegie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ersätzungsstartegie"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,13 +181,23 @@
               "icon": "lucide-list",
               "title": "Outline of Checkliste"
             }
+          },
+          {
+            "id": "24d1230999454b3d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +207,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "63a33a0cc69fa020",
   "lastOpenFiles": [
-    "Ersätzungsstartegie.md",
     "Uni/Rechner_Architektur/Ersätzungsstartegie.md",
+    "Git.md",
+    "Ersätzungsstartegie.md",
     "Uni/Rechner_Architektur/Latch  FlipFlop.md",
     "Uni/Rechner_Architektur/Caching.md",
-    "Git.md",
     "Uni/Rechner_Architektur/Overflow Flag.md",
     "Uni/Rechner_Architektur/Carry Flag.md",
     "Uni/Rechner_Architektur/2-er Komplement.md",
