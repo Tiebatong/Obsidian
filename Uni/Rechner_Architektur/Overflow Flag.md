@@ -10,5 +10,5 @@ Overflow entsteht dann, wenn:
 
 Das heißt also, dass man den Carry out des vorletzten [[Adder]]s und den Carry out des letzten [[Adder]] mit einem XOR Gatter verbinden kann um damit die [[Overflow Flag]] zu setzen.
 
-![[Pasted image 20260208192500.png]]
+![[Pasted image 20260208192500.png|1350]]
 
