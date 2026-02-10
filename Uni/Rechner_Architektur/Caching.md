@@ -13,7 +13,7 @@ Nutzt [[Ersätzungsstartegie]]
 Bei Cache Zugriff wird geguckt ob der Tag vorhanden ist, wenn ja -> Cache hit.
 Dann wird das Byte des entsprechenden Wortes geladen.
 
-![[Pasted image 20260209164905.png|700]]
+![[Pasted image 20260209164905.png|725]]
 
 ## Direct maped Cache
 
@@ -32,5 +32,5 @@ Quasi mehrere associative Cahces nebeneinander
 Bei Cache Zugriff wird erst in die LINE gegangen, dort werden die TAGS geprüft, falls TAG gefunden -> Cache hit.
 Dann wird das Byte des entsprechenden Wortes geladen.
 
-![[Pasted image 20260209170525.png|700]]
+![[Pasted image 20260209170525.png|725]]
 
