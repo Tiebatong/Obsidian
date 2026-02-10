@@ -25,7 +25,7 @@ Dann wird das Byte des entsprechenden Wortes geladen.
 
 ## n-Way set-Associative Cache
 
-Nutzt Ersätzungsstartegie
+Nutzt [[Ersätzungsstartegie]]
 
 Quasi mehrere associative Cahces nebeneinander
 
