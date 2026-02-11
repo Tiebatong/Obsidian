@@ -1,5 +1,5 @@
-- [ ] [[blatt02.pdf]]
-- [ ] [[blatt03.pdf]]
+- [x] [[Blatt02]]
+- [ ] [[Blatt03]]
 - [ ] [[blatt04.pdf]]
 - [ ] [[blatt05.pdf]]
 - [ ] [[blatt06.pdf]]
