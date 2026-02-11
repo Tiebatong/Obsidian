@@ -1,0 +1,31 @@
+1a
+
+javac -cp src/main/java:jars/pdfbox-2.0.33.jar src/main/java/planer/WgPlan.java
+
+Hinweis: Statt src/main/java in den Classpath aufzunehmen, könnten auch alle java-Dateien explizit an javac übergeben werden:
+javac -cp jars/pdfbox-2.0.33.jar src/main/java/planer/WgPlan.java src/main/java/planer/Scheduler.java src/main/java/planer/PdfWriter.java
+
+1b
+
+java -cp src/main/java:jars/pdfbox-2.0.33.jar:jars/commons-logging-1.3.5.jar:jars/fontbox-2.0.33.jar planer.WgPlan out.pdf 9 kristin 70 christian 30
+
+1c
+
+javac -cp src/main/java:src/test/java:jars/assertj-core-4.0.0-M1.jar:jars/junit-jupiter-api-5.8.2.jar:jars/apiguardian-api-1.1.2.jar src/test/java/planer/SchedulerTest.java
+
+Hinweis: Alternativ können die zwei benötigten java-Dateien auch explizit angegeben werden:
+javac -cp jars/assertj-core-4.0.0-M1.jar:jars/junit-jupiter-api-5.8.2.jar:jars/apiguardian-api-1.1.2.jar src/test/java/planer/SchedulerTest.java src/main/java/planer/Scheduler.java 
+
+1d
+
+java -cp src/test/java:src/main/java:jars/junit-platform-console-standalone-6.0.0-M2.jar:jars/assertj-core-4.0.0-M1.jar org.junit.platform.console.ConsoleLauncher execute --scan-class-path
+
+2c
+
+Die benötigten Bibliotheken stehen in der build.gradle.
+
+Um genauer zu sein:
+- implementation: zum Compilieren und Ausführen des Produktivcodes benötigt
+- testImplementation: zum Compilieren und Ausführen des Testcodes benötigt
+- testCompileOnly: zum Compilieren des Testcodes benötigt
+- testRuntimeOnly: zum Ausführen des Testcodes benötigt

@@ -1,6 +1,6 @@
 
 Algorythmen um eine [[Datenstruktur]] nach einem spezifischen Element zu durchsuchen.
-Gibt in der Regel den Index des gesuchten Elements zurüch, manchmal aber auch einen boolean ob das Element enthalten ist.
+Gibt in der Regel den Index des gesuchten Elements zurück, manchmal aber auch einen boolean ob das Element enthalten ist.
 
 ## [[linear search]]
 
@@ -10,5 +10,5 @@ Seht langsam.
 
 ## [[binary search]]
 
-Ein Array wird aufgeteil und in der jeweiligen Hälfte wird gesucht.
+Ein Array wird aufgeteilt und in der jeweiligen Hälfte wird gesucht.
 Sehr schnell

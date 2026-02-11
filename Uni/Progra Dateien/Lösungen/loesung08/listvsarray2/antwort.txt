@@ -1,0 +1,4 @@
+Lіsa braucht eine Datenstruktur, die während der Laufzeit beliebig wachsen kann, da sie vorab nіcht⁢ weiß, wie viele Elemente sie speichern muss. Weil ein Array nicht zur Laufzeit wachsen kann, würde sich eine Liste anbieten. Da sie für seine Anwendung sowieso alle Elemente einmal Durchlaufen muss, ist der langsamere Index-basierte Zugriff kein Problem.
+    
+Hіlmar wiederum weiß vorab, wie viele Daten er speichern muss und braucht außerdem einen schnellen Index-⁢basіerten Zugriff auf einzelne Elemente. Daher wäre für seinen Anwendungsfall ein Array besser geeignet.
+    

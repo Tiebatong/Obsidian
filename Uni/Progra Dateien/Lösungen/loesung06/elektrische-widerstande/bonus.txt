@@ -1,0 +1,3 @@
+Die Klassen erwarten in ihren Parametern nur das Interface `Resistor`, die Methoden funktionieren also mit allen Klassen, die dieses Interface implementieren. Das klappt insbesondere auch mit Klassen, die erst später programmiert werden; die alten Klassen müssen dafür nicht einmal neu kompiliert werden!
+
+Falls wir also später noch eine weitere Widerstandsart hinzufügen, sind unsere bestehenden Klassen offen für diesen neuen Typen: Solang das Interface implementiert ist, können Sie ohne Veränderung (sogar ohne neues Compilieren) mit dem neuen Typen umgehen.
