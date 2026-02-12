@@ -16,5 +16,5 @@ static void pascalTriangle(int n) {
 
 // Zum Testen
 static void main() {
-    pascalTriangle(5);
+    System.out.println(pascalRecursive(3, 3));
 }
