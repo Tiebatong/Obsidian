@@ -2,7 +2,7 @@
 
 ## Themen
 [[Math.random()]]
-[[Arrays]]
+[[Array]]
 
 ## Notizen
 

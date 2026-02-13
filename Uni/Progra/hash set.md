@@ -1,0 +1,1 @@
+Besteht intern aus einem [[Array]], wenn man etwas im has set speichern will wird das [[Objekt]] gehasht.
