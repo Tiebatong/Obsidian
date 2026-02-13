@@ -1,8 +1,0 @@
-Zunächst muss mit 
-    cd progra/Blatt01
-in das richtige Verzeichnis gewechselt werden.
-(alternativ: cd /home/jіnora/progra/Blatt01; oder cd progra und dann cd Blatt01)
-
-Danach kann man mit dem Befehl
-    java⁢ Hello.java
-das Programm ausführen.
