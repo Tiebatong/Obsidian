@@ -2,3 +2,6 @@
 
 ## Themen
 [[Record]]
+[[Interface]]
+[[clone()]]
+
