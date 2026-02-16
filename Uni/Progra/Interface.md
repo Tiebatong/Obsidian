@@ -17,3 +17,4 @@ und die Funktion int resistorCount() voraus.
 
 Der [[Konstruktor]] SeriesCircuit nimmt jetzt jedes Objekt entgegen, das das Interface implementiert.
 Dadurch kann man sicherstellen, dass jedes Objekt das in SeriesCircuit gespeichert wird die nötigen [[Instanzvariablen]] / Funktionen hat.
+
