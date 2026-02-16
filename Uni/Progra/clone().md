@@ -1,12 +1,14 @@
 Wird genutzt um eine defensive copy anzulegen. 
 
-Wenn man ein [[Objekt]] kopieren möchte gibt es 2 Option
+Wenn man ein [[Objekt]] kopieren möchte gibt es 2 Optionen.
 ### shallow copy: 
-kopiert nur die Referenz auf das [[Objekt]], beide Objekte haben jetzt die selbe Adresse im [[Heap]]
+Kopiert nur die Referenz auf das [[Objekt]], beide Objekte haben jetzt die selbe Adresse im [[Heap]]
 
 object_A = object_B;
 
 Da beide Objekte die selbe Adresse haben wird jede Veränderung auch beim anderen [[Objekt]] übernommen.
 ### deep copy:
+Übernimmt alle Atribute des Objektes behält aber seine individuelle Adresse bei.
+Eine Änderung des einen Objektes führt nicht mehr zu einer Änderung des anderen Objektes.
 
-anlegen.
+
