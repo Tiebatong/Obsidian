@@ -2,5 +2,5 @@
 
 ## Themen
 [[Math.random()]]
-[[Schleifen]]
+[[Schleife]]
 
