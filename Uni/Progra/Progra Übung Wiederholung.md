@@ -5,7 +5,7 @@
 - [x] [[Blatt06]]
 - [x] [[Blatt07]]
 - [ ] [[Blatt08]]
-- [ ] [[Blatt09]]
+- [x] [[Blatt09]]
 - [ ] [[Blatt10]]
 - [ ] [[Blatt11]]
 - [ ] [[Blatt12]]
