@@ -2,7 +2,7 @@
 
 ## Themen
 [[Objekt]]
-[[Instanzvariablen]]
+[[Instanzvariablen 1]]
 [[Interface]]
 
 
