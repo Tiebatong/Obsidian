@@ -35,7 +35,7 @@ Diese Entwicklung wird zu eine allgemeinen Sinken der Profitraten führen.
 
 ### 3 Löhne und Geldumsatz
 
-Eins der veraltesten Kapitel, vor allen, da Lohn heute nahezu ausschließlich digital gezahlt werden und nicht in Bar.
+Eins der veraltetsten Kapitel, vor allen, da Lohn heute nahezu ausschließlich digital gezahlt werden und nicht in Bar.
 
 Weston stellt die These auf, dass eine Erhöhung der Löhne nicht umsetzbar sei, da die Menge des Geldes bzw. der Zahlungsmittel fix sei. Daraus folge, dass die erhöhten Löhne gar nicht gezahlt werden könnten.
 
