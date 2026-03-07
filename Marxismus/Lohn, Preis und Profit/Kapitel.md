@@ -33,4 +33,16 @@ Die Preise würden also wieder auf das vorherige Niveau sinken.
 
 Diese Entwicklung wird zu eine allgemeinen Sinken der Profitraten führen.
 
+### 3 Löhne und Geldumsatz
 
+Eins der veraltesten Kapitel, vor allen, da Lohn heute nahezu ausschließlich digital gezahlt werden und nicht in Bar.
+
+Weston stellt die These auf, dass eine Erhöhung der Löhne nicht umsetzbar sei, da die Menge des Geldes bzw. der Zahlungsmittel fix sei. Daraus folge, dass die erhöhten Löhne gar nicht gezahlt werden könnten.
+
+Marx stellt fest, dass der Großteil des Lohnes, zumindest in England, wo er diesen Vortrag nun mal hält, zirkuliert.
+Der Lohn geht vom Fabrikbesitzer -> Fabrikarbeiter -> Krämer -> Bankier -> Fabrikbesitzer -> ...
+und immer so weiter.
+
+In England sei der Lohn der Arbeiterklasse in einem Jahr 250 millionen Pfund, er werde aber nur mit 3 millionen zirkuliert. Der Lohn ist also nicht von der tatsächlichen menge an zirkulierendem geld abhängig, also is Westons Behauptung widerlegt.
+
+### 4 Angebot und Nachfrage
