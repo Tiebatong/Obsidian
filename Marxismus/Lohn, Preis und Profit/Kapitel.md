@@ -43,7 +43,28 @@ Marx stellt fest, dass der Großteil des Lohnes, zumindest in England, wo er die
 Der Lohn geht vom Fabrikbesitzer -> Fabrikarbeiter -> Krämer -> Bankier -> Fabrikbesitzer -> ...
 und immer so weiter.
 
-In England sei der Lohn der Arbeiterklasse in einem Jahr 250 millionen Pfund, er werde aber nur mit 3 millionen zirkuliert. Der Lohn ist also nicht von der tatsächlichen menge an zirkulierendem geld abhängig, also is Westons Behauptung widerlegt.
+In England sei der Lohn der Arbeiterklasse in einem Jahr 250 Millionen Pfund, er werde aber nur mit 3 Millionen zirkuliert. Der Lohn ist also nicht von der tatsächlichen menge an zirkulierendem geld abhängig, also is Westons Behauptung widerlegt.
 
 ### 4 Angebot und Nachfrage
+
+Marx kritisiert Weston dafür, dass Weston von "niedrigem" und "hohen" Lohn spricht, und argumentiert, dass diese Begriffe willkürlich sind, da sie nur dann sinnvoll sind, wenn man den Lohn mit einem Standard vergleicht. Wenn 5$ niedrig und 20$ hoch seine, dann sind 20$ im Vergleich zu 200$ wiederum niedrig.
+
+Im Bezug auf den Marktpreis von Arbeit gilt folgendes Gesetz:
+	Wenn die Nachfrage größer ist als das Angebot erhöht sich der Lohn
+	Wenn das Angebot größer ist als die Nachfrage sinkt der Lohn
+
+Angebot und Nachfrage regeln nicht den Preis der Arbeit, also den Lohn, sondern lediglich die *Schwankung* des Lohns.
+Daraus folgt, dass der Lohn an sich sich nicht aus Angebot und Nachfrage ergibt.
+Wenn Angebot und Nachfrage sich gegenseitig *decken* dann hören sie auf zu wirken, dann fällt der Marktpreis einer [[Wahre]] mit ihrem tatsächlichen [[Wert]] zusammen.
+
+### 5 Löhne und Preise
+Marx fasst Bürger Westons gesamte Argumentation mit dem Satz "Die Warenpreise werden durch die Löhne bestimmt oder geregelt" zusammen und widerlegt diesen in diesem Kapitel.
+
+Anhänger dieser Idee können allerdings die Höhe der Löhne, also den [[Wert]] der Arbeit nicht erklären ohne wiederum die Warenpreise zu nutzen, die Argumentation dreht sich im kreis.
+
+Diese Behauptung läuft also darauf hinaus, dass der [[Wert]] durch den [[Wert]] bestimmt wird.
+
+
+### 6 Wert und Arbeit
+
 
