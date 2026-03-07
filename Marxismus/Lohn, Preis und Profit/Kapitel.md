@@ -46,3 +46,4 @@ und immer so weiter.
 In England sei der Lohn der Arbeiterklasse in einem Jahr 250 millionen Pfund, er werde aber nur mit 3 millionen zirkuliert. Der Lohn ist also nicht von der tatsächlichen menge an zirkulierendem geld abhängig, also is Westons Behauptung widerlegt.
 
 ### 4 Angebot und Nachfrage
+
