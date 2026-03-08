@@ -5,7 +5,7 @@ Bürger Weston stellt die Behauptung auf, dass sich Streiks für Lohnerhöhung
 nicht lohnen, da die Löhne eine feste Menge seien, die zwangsläufig nach einer Erhöhung wieder gesenkt werden würden.
 Dabei trifft er 2 Annahmen, erstens, dass die Menge der nationalen Produktion sei eine feste unveränderliche Menge, zweitens, die Menge des [[Reallohn|Reallohns]] sei ebenfalls eine unveränderliche Menge.
 
-Marx sagt, selbst unter dieser falschen Annahme sei seine Argumentation falsch, denn wenn eine [[Wahre]] für 10 $ verkauft wird könnte der Lohn 5 und der Profit 5 ausmachen, genauso könne aber auch der Lohn 8 und der Profit nur 3 ausmachen.
+Marx sagt, selbst unter dieser falschen Annahme sei seine Argumentation falsch, denn wenn eine [[Wahre]] für 10 $ verkauft wird könnte der Lohn 5 und der Profit 5 ausmachen, genauso könne aber auch der Lohn 8 und der Profit nur 2 ausmachen.
 
 ### 2 Produktion, Lohn, Profit
 
