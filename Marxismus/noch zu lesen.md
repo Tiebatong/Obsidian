@@ -1,0 +1,11 @@
+
+- [ ] Lohn, Preis und Profit
+- [ ] manifest der kommunistischen Partei (reread)
+- [ ] Sozialreform oder Revolution
+- [ ] Women's liberation and the African freedom struggle
+- [ ] Was zu tun ist
+- [ ] Warum ich niemals für mein Land kämpfen würde
+- [ ] Staat und Revolution
+- [ ] Demokratie Die perfekte Form bürgerlicher Herrschaft
+- [ ] Der Imperialismus als höchstes Stadium des Kapitalismus
+- [ ] Das Kapital Band 1
