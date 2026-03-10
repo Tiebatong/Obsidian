@@ -80,7 +80,7 @@ S. 40 "Eine Ware hat deshalb Wert, weil sie *Kristallisation gesellschaftlicher 
 
 Der Wert einer Ware besteht also aus der Summe von in ihr angewandten Mengen an Arbeit.
 Der Wert von garn bsp. ergibt sich aus der Summe der Arbeitsmenge die in Die Baumwolle, Kohle, Öl, Transport und Maschinen und Fabriken gesteckt wurde.
-Bei Gegenständen, wie in diesem Beispiel einer Spindel wird, die sich langsam abnutzen und ersetzt werden müssen wird eine Durchschnittsrechnung angestellt, wenn sich eine Spindel pro Kilogramm Garn um 1% abnutzt, wird 1% des Wertes der Spindel auf den Wert des Kilogrammes garn addiert.
+Bei Gegenständen, wie in diesem Beispiel einer Spindel, die sich langsam abnutzen und ersetzt werden müssen wird eine Durchschnittsrechnung angestellt, wenn sich eine Spindel pro Kilogramm Garn um 1% abnutzt, wird 1% des Wertes der Spindel auf den Wert des Kilogrammes Garn addiert.
 
 Der Wert ergibt sich ausdrücklich nicht aus dem Lohn, der für die Arbeit gezahlt wird, der Lohn kann den Wert zwar unterschreiten und tut dies in der Regel auch, er kann ihn aber niemals überschreiten.
 
@@ -101,11 +101,46 @@ Der Preis einer Ware entspreche tatsächlich seinem Wert, zumindest tendiert der
 
 ### 7 Die Arbeitskraft
 
+Marx beschäftigt sich mit der Frage, wie sich der Wert der Arbeit definiert.
+Er stellt fest, dass der Arbeiter nicht seine Arbeit sondern seine *Arbeitskraft* verkauft.
+
+Der Wert der Arbeitskraft wird auf die selbe Weise ermittelt, wie der [[Wert]] einer [[Ware]], nämlich durch die in der Arbeitskraft aufgewandten Arbeit.
+
+S.53 "Nach dem Dargelegten dürfte klar sein, dass der Wert der Arbeitskraft bestimmt wird durch den Wert der für den Lebenserhalt notwendigen Güter, die zur Produktion, Entwicklung, Erhaltung und Fortsetzung der Arbeitskraft erforderlich sind."
+
+Damit ist auch Care Arbeit gemeint, und auch die Arbeit, die notwendig ist, um Kinder aufzuziehen, die den Arbeiter später auf dem Arbeitsmarkt ersetzen werden.
+
+Marx kritisiert auch die Forderung nach gleichem Lohn für alle, da verschiedene Arbeitskraft verschieden viel Wert hat. 
+
+
 ### 8 Die Produktion des Mehrwerts
+
+Hier schneidet Marx recht knapp die [[Mehrwert Theorie]] an.
+
+Angenommen die *Arbeitskraft* eines Arbeiters beträgt 3$ für einen Tag, dann benötigt der Arbeiter jeden Tag 3$ um sich selbst zu erhalten, er muss also jeden Tag seine *Arbeitskraft* für mindestens 3$ an den Kapitalisten verkaufen.
+Angenommen er arbeitet jeden Tag 6 Stunden, dann für dem garn ein Wert von 3$ hinzugefügt.
+Durch den Verkauf der Arbeitskraft an den Kapitalisten erhält dieser das Recht den Arbeiter die ganze Woche arbeiten zu lassen, der Arbeiter hat es also nur nötig 6 Stunden pro Tag zu arbeiten, der Kapitalist lässt ihn allerdings 12 Stunden arbeiten.
+Der Arbeiter fügt also jeden tag einen Wert von 6$ dem garn hinzu, sein Lohn beträgt aber nur 3$ . Die restlichen 3$ behält der Kapitalist als [[Mehrwert Theorie|Mehrwert]], oder auch als *Mehrarbeit*.
+
 
 ### 9 Der Wert der Arbeit
 
+Für den Arbeiter mag es so scheinen, dass der Wert seiner Arbeit gleich dem Wert seiner Arbeitskraft sei, dem ist nicht so.
+Ist seine Arbeitskraft 3$ wert, die er in 6 Stunden Arbeit umsetzt, dann sind seine 12 Stunden Arbeit 6$ wert, bezahlt bekommt er aber nur die 6 Stunden. Daraus entsteht der Trugschluss,. dass 12 Arbeitsstunden 3$ wert seinen.
+
+Wert der Arbeitskraft != Wert der Arbeit.
+
+Dem Arbeiter scheint es so, als seien alle seine Arbeitsstunden bezahlte Arbeit, dabei werden in Wirklichkeit nur die ersten 6 bezahlt, die anderen 6 bleiben unbezahlt.
+
+
 ### 10 Profit wird gemacht durch Verkauf einer Ware zu ihrem Wert
+
+Ein Teil der Arbeitskraft, die in die Herstellung einer Ware fließt ist unbezahlt, dass heißt wenn insgesamt 20 Stunden Arbeitskraft in eine Ware fließen sind davon weniger als 20 bezahlt.
+Der Wert dieser Ware ergibt sich aber immer noch durch die in sie gesteckte Arbeit.
+
+Eine Ware wird also zu ihrem tatsächlichen [[Wert]] verkauft, der Profit des Kapitalisten ist also die Differenz zwischen der bezahlten Arbeit und dem Wert der Ware.
+Profit stammt also ausdrücklich nicht daher, dass eine Ware über ihrem Wert verkauft würde.
+
 
 ### 11 Die verschiedenen Teile, in die der Mehrwert zerfällt
 
