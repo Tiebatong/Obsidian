@@ -144,7 +144,35 @@ Profit stammt also ausdrücklich nicht daher, dass eine Ware über ihrem Wert ve
 
 ### 11 Die verschiedenen Teile, in die der Mehrwert zerfällt
 
+Marx spricht in diesem Kapitel von *industriellen Kapitalisten* womit arbeitgebende Kapitalisten gemeint sind, im Original *employing capitalist*.
+
+Ein Teil des Mehrwertes den der Kapitalist abschöpft fließt in Pacht oder Mietzins von Produktionsmitteln, also bsp. Boden, Schienen oder Fabriken.
+Das Monopol über diese Arbeitsmittel setzt den geldverleihenden Kapitalisten in die Lage einen Teil des Mehrwerts für sich zu beanspruchen.
+
+Der restliche Profit der dem industriellen Kapitalisten nach dem zins noch bleibt nennt Marx industriellen oder kommerziellen Profit.
+
+Die Pacht oder der Mietzins kann der industrielle Kapitalist nur aus dem Wert der Mehrarbeit des Arbeiters bezahlen.
+Wenn ein Arbeiter also einen Wert von 200$ herstellt und sein Lohn sich auf 100$ beläuft hat er die hälfte der Zeit unbezahlt gearbeitet. von den 100$ Mehrwert muss der industrielle Kapitalist nun aber noch Pacht und Zins bezahlen. Die 100$ Mehrwert teilen sich also noch einmal auf, dem Arbeiter kann es allerdings recht egal sein an wen genau sein Mehrwert geht.
+
 ### 12 Das allgemeine Verhältnis von Profiten, Löhnen und Preisen
+
+Lohn und Profit stehen einander strikt im Zusammenhang und Wechselwirkung, steigt der lohn sinkt der Profit und umgekehrt.
+
+Das Sinken oder Steigen des Lohnes oder der Profitrate hat aber keinen Einfluss auf den Wert und somit auch nicht auf den preis der Ware, da sich an der in der Ware aufgewandten Arbeit nichts ändert.
+Die Menge an Waren die produziert werden hängt von der *Produktivkraft* der Arbiter ab, nicht von der Länge der Arbeit.
+
+Beispiel:
+
+Der durchschnittliche Wert von 12 Stunden Arbeit beträgt 6$
+
+1. Arbeitstag von 12 Stunden, Arbeiter stellen 12 Pfund Garn her. 1 Pfund Garn = 0,5$
+2. Arbeitstag von 12 Stunden, Arbeiter stellen aber nur 2 Pfund Garn her. 1 Pfund Garn = 3$
+
+Die Differenz der Preise stammt von dem Unterscheid der Produktivkräfte der Arbeiter.
+Daraus folgt auch, dass hoch bezahlte Arbeit niedrige Preise und niedrig bezahlte Arbeit hohe Preise zu Folge haben kann, wie vorher von Marx behauptet.
+
+
+	
 
 ### 13 Die hauptsächlichsten Versuche, den Lohn zu heben oder seinem Sinken entgegenzuwirken
 
