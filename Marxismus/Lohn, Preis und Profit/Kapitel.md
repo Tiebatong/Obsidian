@@ -166,7 +166,7 @@ Beispiel:
 Der durchschnittliche Wert von 12 Stunden Arbeit beträgt 6$
 
 1. Arbeitstag von 12 Stunden, Arbeiter stellen 12 Pfund Garn her. 1 Pfund Garn = 0,5$
-2. Arbeitstag von 12 Stunden, Arbeiter stellen aber nur 2 Pfund Garn her. 1 Pfund Garn = 3$
+2. Arbeitstag von 12 Stunden, Arbeiter stellen 2 Pfund Garn her. 1 Pfund Garn = 3$
 
 Die Differenz der Preise stammt von dem Unterscheid der Produktivkräfte der Arbeiter.
 Daraus folgt auch, dass hoch bezahlte Arbeit niedrige Preise und niedrig bezahlte Arbeit hohe Preise zu Folge haben kann, wie vorher von Marx behauptet.
