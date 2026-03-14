@@ -2,8 +2,8 @@
 - [ ] Lohn, Preis und Profit
 - [ ] Sozialreform oder Revolution
 - [ ] Women's liberation and the African freedom struggle
+- [ ]  manifest der kommunistischen Partei (reread)
 - [ ] Was zu tun ist
-- [ ] manifest der kommunistischen Partei (reread)
 - [ ] Warum ich niemals für mein Land kämpfen würde
 - [ ] Staat und Revolution
 - [ ] Demokratie Die perfekte Form bürgerlicher Herrschaft

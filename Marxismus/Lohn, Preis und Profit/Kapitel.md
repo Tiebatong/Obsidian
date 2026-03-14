@@ -176,5 +176,13 @@ Daraus folgt auch, dass hoch bezahlte Arbeit niedrige Preise und niedrig bezahlt
 
 ### 13 Die hauptsächlichsten Versuche, den Lohn zu heben oder seinem Sinken entgegenzuwirken
 
+Lohnsteigerung nach Steigerung der Produktivkräfte ist lediglich der Versuch sich einen Anteil an der Steigerung der eigenen Produktivkraft zu sichern.
+
+Sinkt der Wert des Geldes und bleibt der Lohn gleich, so beträgt der lohn weniger Wert des Arbeit der Arbeiters.
+
+Der Arbeiter verkauft seine Arbeitskraft um sie zu erhalten, nicht um sie in immer längeren Schichten zu zerstörten und abzunutzen.
+
+
+
 ### 14 Der Kampf zwischen Kapital und Arbeit und seine Resultate
 
