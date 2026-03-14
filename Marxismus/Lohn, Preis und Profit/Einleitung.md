@@ -6,6 +6,9 @@ Marx geht hauptsächlich auf Behauptungen von John Weston, eines der Gründungsm
 Es geht hauptsächlich um die Sinnhaftigkeit von Lohnerhöhugen.
 Marx widerlegt schrittweise die Thesen Westons und erklärt anhand dessen wie Lohn, Preis und Profit tatsächlich zueinander stehen, und welchen Gesetzen sie unterworfen sind.
 
+Viele Grundlagen für das Verständnis von Kapitel 2 werden erst in späteren Kapiteln ausführlich erklärt.
+
+
 
 
 

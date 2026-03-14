@@ -186,3 +186,18 @@ Der Arbeiter verkauft seine Arbeitskraft um sie zu erhalten, nicht um sie in imm
 
 ### 14 Der Kampf zwischen Kapital und Arbeit und seine Resultate
 
+Die [[Arbeit]] wird in die Kategorie der Waren versetzt und unterliegt somit auch den Gesetzen der Preise.
+
+Der [[Wert]] der Arbeitskraft ergibt sich aus zwei Elementen,
+1. einem physischen Element
+		Bestimmt die äußerste grenze, nämlich die Grenze ab der die Reproduktion der Arbeitskraft nicht mehr möglich ist.
+2. einem gesellschaftlichen Element
+		Dieses Element ist von Land zu land unterschiedlich, da es sich durch einen gesellschaftlichen Lebensstandrad ergibt, welcher sich allerdings durchaus ändern kann.
+
+Der Wert der Arbeit ist keine feste Größe.
+Es ist möglich das Minimum der Löhne, nicht aber das Maximum zu bestimmen, da die untere physische grenze bestimmbar ist.
+
+Das maximum des [[Profit|Profits]] wird begrenzt durch das untere physische Minimum des Lohns und des maximus des Arbeitstages.
+
+Marx folgert, dass da jede Erhöhung des Lohns oder Verkürzung des Arbeitstages juristisch geregelt werden musste klar sei, dass das Kapital immer am längeren Hebel sitzt.
+Der Kapitalist strebt danach im Ramen der Industrialisierung und allgemeinen Steigerung der Produktivkräfte den Anteil an fixem Kapital, also Maschinen, Rohstoffen, Produktionsmitteln, zu erhöhen.
