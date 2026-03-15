@@ -1,5 +1,5 @@
 
-- [ ] Lohn, Preis und Profit
+- [x] Lohn, Preis und Profit
 - [ ] Sozialreform oder Revolution
 - [ ] Women's liberation and the African freedom struggle
 - [ ]  manifest der kommunistischen Partei (reread)
