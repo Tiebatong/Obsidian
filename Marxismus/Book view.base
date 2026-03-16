@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Sicht
+    filters:
+      and:
+        - file.folder == "Obsidian Vault/Marxismus/Bücher"
+    order:
+      - title
+      - author
+      - gelesen
+    image: note.Cover
+    imageFit: contain
+    imageAspectRatio: 1.55

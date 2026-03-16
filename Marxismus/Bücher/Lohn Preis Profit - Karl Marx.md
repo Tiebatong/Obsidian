@@ -1,3 +1,35 @@
+---
+title: "Karl Marx: Lohn, Preis, Profit"
+subtitle:
+author: Karl Marx
+authors: Karl Marx
+category: Political Science
+categories: Political Science
+publisher:
+publishDate: 2013-04-27
+totalPage: 50
+coverUrl:
+coverSmallUrl:
+description: Der Schrift Lohn, Preis, Profit" in dieser Broschüre liegt ein Vortrag zugrunde, den Marx 1865 vor dem Generalrat der I. Internationale hielt. Anschaulich erklärte er den Arbeitern das Wesen der kapitalistischen Ausbeutung sowie die ökonomischen Grundlagen der Herrschaft der Bourgeoisie und der Lohnsklaverei; daraus leitete er die Bedeutung des ökonomischen Kampfes ab und erläuterte Aufgaben und Nutzen der Gewerkschaften. Zusammen mit Lohnarbeit und Kapital" bildet sie von Marx selbst verfasste Einführungen in seine politische Ökonomie und helfen, das 'Kapital', sein theoretisches Hauptwerk, zu erschließen.
+link: https://books.google.com/books/about/Karl_Marx_Lohn_Preis_Profit.html?hl=&id=jKVKnAEACAAJ
+previewLink: http://books.google.de/books?id=jKVKnAEACAAJ&dq=Lohn,+Preis+und+Profit&hl=&as_pt=BOOKS&cd=3&source=gbs_api
+isbn10: 1484822137
+isbn13: 9781484822135
+Cover: "[[OIP.jpg]]"
+tags:
+gelesen: true
+---
+  Lohn, Preis und Profit ist das Manuskript eines Vortrages den Marx im ersten Generalrat der (ersten) Internationalen gehalten hat. Dieser Vortrag liegt zeitlich zwischen dem Manifest und dem Kapital.
+  
+  ![[karl-Marx-Talking-Conference-International-e1556210428274.jpg|275]]
+
+Marx geht hauptsächlich auf Behauptungen von John Weston, eines der Gründungsmitglieder der Internationalen. 
+Es geht hauptsächlich um die Sinnhaftigkeit von Lohnerhöhugen.
+Marx widerlegt schrittweise die Thesen Westons und erklärt anhand dessen wie Lohn, Preis und Profit tatsächlich zueinander stehen, und welchen Gesetzen sie unterworfen sind.
+
+Viele Grundlagen für das Verständnis von Kapitel 2 werden erst in späteren Kapiteln ausführlich erklärt.
+
+
 
 ### 1 Produktion und Löhne
 
