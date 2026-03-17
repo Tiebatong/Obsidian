@@ -2,11 +2,11 @@
 - [x] [[Lohn Preis Profit - Karl Marx]]
 - [ ] [[Sozialreform oder Revolution - Rosa Luxemburg]]
 - [ ] Die deutsche Ideologie (1845/46)
-- [ ] Grundsätze des Kommunismus (1847)
+- [ ] [[Grundsätze des Kommunismus - Friedrich Engels]]
 - [ ] Lohnarbeit und Kapital (1849)
 - [ ] Kritik des Gothaer Programms (1875)
 - [ ] Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft (1880)
-- [ ] Women's liberation and the African freedom struggle
+- [ ] [[Women's Liberation and the African Freedom Struggle - Thomas Sankara]]
 - [ ] Manifest der kommunistischen Partei (reread)
 - [ ] Was zu tun ist
 - [ ] Warum ich niemals für mein Land kämpfen würde

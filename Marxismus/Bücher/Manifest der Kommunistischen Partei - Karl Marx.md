@@ -17,3 +17,11 @@ isbn13: EAN:8596547749165
 gelesen: true
 Cover: "[[Manifest.jpg]]"
 ---
+### Bourgeois und Proletarier
+
+Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.
+
+In allen früheren Gesellschaften herschten ebenfalls Klassenverhältnisse, Der Kapitalismus hat diese aber nicht überwunden sondern vereinfacht, sie hat lediglich neue Klassen hervorgebracht.
+Durch die Entdeckung der Welt durch die Seefahrt wurden neue Märkte entdeckt, die erst durch die große Industrie erschlossen werden konnten.
+
+Die moderne Staatsgewalt ist nur ein Ausschuss, der die gemeinschaftlichen Geschäfte der ganzen Bourgeoisklasse verwaltet.
