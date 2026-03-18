@@ -25,3 +25,14 @@ In allen früheren Gesellschaften herschten ebenfalls Klassenverhältnisse, Der 
 Durch die Entdeckung der Welt durch die Seefahrt wurden neue Märkte entdeckt, die erst durch die große Industrie erschlossen werden konnten.
 
 Die moderne Staatsgewalt ist nur ein Ausschuss, der die gemeinschaftlichen Geschäfte der ganzen Bourgeoisklasse verwaltet.
+
+Der Kapitalismus bzw. die Bourgeoise lässt zwischen den Menschen keine andere Verbindung mehr stehen, außer die des reinen Geldes, oder wie er sie nennt der "baren Zahlung".
+Die persönliche Würde wurde in den Tauschwert aufgelöst.
+
+Alle früheren industriellen Klassen waren darauf angewiesen die Produktionsverhältnisse so zu bewahren wie sie sind, um ihr Fortbestehen zu sichern. Die Bourgeoise hingegen ist darauf angewiesen die kapitalistische Produktionsweise fortwährend zu revolutionieren.
+
+Da die Bourgeoise stets auf der Suche nach neuen Absatzmärkten ist muss sie sich über die ganze Welt verbreiten. Die nationalen Industrien werden verdrängt durch neue internationale, diese neuen Industrien sind für die Nationen über­le­bens­not­wen­dig.
+
+Die durch Inlandsproduktion zu befriedigenden Bedürfnisse werden verdrängt von welchen, die nur durch globale internationale Produktion befriedigt werden können. Es entsteht eine allgemeine und gegenseitige Abhängigkeit der Nationen.
+
+

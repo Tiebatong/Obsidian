@@ -1,14 +1,14 @@
 
 - [x] [[Lohn Preis Profit - Karl Marx]]
 - [ ] [[Sozialreform oder Revolution - Rosa Luxemburg]]
-- [ ] Die deutsche Ideologie (1845/46)
+- [ ] [[Karl Marx Die deutsche Ideologie - Karl Marx Friedrich Engels]]
 - [ ] [[Grundsätze des Kommunismus - Friedrich Engels]]
-- [ ] Lohnarbeit und Kapital (1849)
-- [ ] Kritik des Gothaer Programms (1875)
-- [ ] Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft (1880)
+- [ ] [[Lohnarbeit und Kapital - Karl Marx]]
+- [ ] [[Kritik des Gothaer Programms - Karl Marx]]
+- [ ] [[Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft - Friedrich Engels]]
 - [ ] [[Women's Liberation and the African Freedom Struggle - Thomas Sankara]]
-- [ ] Manifest der kommunistischen Partei (reread)
-- [ ] Was zu tun ist
+- [ ] [[Manifest der Kommunistischen Partei - Karl Marx]] (reread)
+- [ ] [[Was tun - Vladimir Il'ič Lenin]]
 - [ ] Warum ich niemals für mein Land kämpfen würde
 - [ ] Staat und Revolution
 - [ ] Demokratie Die perfekte Form bürgerlicher Herrschaft
