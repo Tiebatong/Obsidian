@@ -26,3 +26,6 @@ Es reicht dabei, die höheren Indexe abzusuchen, die nicht null sind, sobald auf
 
 Es gibt auch andere Ansätze Kollisionen zu verhindern, man kann beispielsweise bei einer Kollision eine [[verkettete Liste]] anlegen oder ähnliches.
 
+
+
+
