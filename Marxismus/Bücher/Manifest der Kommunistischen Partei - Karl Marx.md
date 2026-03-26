@@ -21,7 +21,7 @@ Cover: "[[Manifest.jpg]]"
 
 Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.
 
-In allen früheren Gesellschaften herschten ebenfalls Klassenverhältnisse, Der Kapitalismus hat diese aber nicht überwunden sondern vereinfacht, sie hat lediglich neue Klassen hervorgebracht.
+In allen früheren Gesellschaften herschten ebenfalls Klassenverhältnisse, Der Kapitalismus hat diese aber nicht überwunden sondern vereinfacht, er hat lediglich neue Klassen hervorgebracht.
 Durch die Entdeckung der Welt durch die Seefahrt wurden neue Märkte entdeckt, die erst durch die große Industrie erschlossen werden konnten.
 
 Die moderne Staatsgewalt ist nur ein Ausschuss, der die gemeinschaftlichen Geschäfte der ganzen Bourgeoisklasse verwaltet.
@@ -34,5 +34,22 @@ Alle früheren industriellen Klassen waren darauf angewiesen die Produktionsverh
 Da die Bourgeoise stets auf der Suche nach neuen Absatzmärkten ist muss sie sich über die ganze Welt verbreiten. Die nationalen Industrien werden verdrängt durch neue internationale, diese neuen Industrien sind für die Nationen über­le­bens­not­wen­dig.
 
 Die durch Inlandsproduktion zu befriedigenden Bedürfnisse werden verdrängt von welchen, die nur durch globale internationale Produktion befriedigt werden können. Es entsteht eine allgemeine und gegenseitige Abhängigkeit der Nationen.
+
+Die Notwendigkeit neue Märkte zu erschließen lässt die kapitalistischen Länder alle anderen Länder dazu zwingen die kapitalistische Produktion zu übernehmen oder unterzugehen.
+
+Die bourgeoise zentralisiert die Produktionsmittel und konzentriert das Kapital in wenigen Händen.
+
+Die verschiedenen Provinzen, Gesetze und Interessen wurden zusammengedrängt zu einem Gesetz, einem Interesse, einem Land, kurzum: einem Klasseninteresse.
+
+Der Kapitalismus neigt zur Überproduktion, er ist sogar dazu gezwungen. Dadurch entstehen Krisen, die Überproduktion führt schlussendlich zu einem Mangel an Nahrung, Produktion und Handel.
+
+Diese Krisen werden überwunden, indem einerseits die eigenen Produktivkräfte zerstört werden, und indem neue Märkte erobert werden. Die Bewältigung der Krise bereitet bereits die nächste vor.
+
+Die Arbeiter sind eine [[Ware]] wie jede andere auch, somit sind sie genauso den Schwankungen des Marktes ausgesetzt.
+
+Durch die fortschreitende Industrialisierung und Teilung der Arbeit nimmt die [[Entfremdung]] des Arbeiters zu seiner Arbeit zu. Je mehr die Teilung und die Maschinerie der Arbeit zunimmt, desto mehr nimmt die Masse oder Last der Arbeit zu.
+
+Alle bisher existierenden Klassen, also Mittelstände, Bauern oder Handwerker werden durch das Aufkommen der kapitalistischen Produktionsweise zum Proletariat gemacht.
+
 
 
