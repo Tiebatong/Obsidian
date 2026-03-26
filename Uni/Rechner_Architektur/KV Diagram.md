@@ -22,3 +22,4 @@ Jeder Block ist ein Implikant, wenn der Block nicht mehr vergrößert werden kan
 + Rot ist Primimplikant 2ter Ordnung, es ist kein Kernprimimplikant, da jede 1 auch von anderen Blöcken eingeschlossen werden könnte.
 + Grün ist ein Kernprimimplikant 1er Ordnung, da es eine 1 einschließt, die sonst von keinem anderen Block eingeschlossen wird, oder werden könnte.
 
+Wenn in einer Aufgabe nach der Anzahl an nicht vergrößerbaren 1- oder 0-Blöcken gefragt wird müssen alle möglichen angegeben werden.
