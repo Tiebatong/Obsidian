@@ -33,6 +33,7 @@ Viele Grundlagen für das Verständnis von Kapitel 2 werden erst in späteren Ka
 
 ### 1 Produktion und Löhne
 
+
 Bürger Weston stellt die Behauptung auf, dass sich Streiks für Lohnerhöhung
 nicht lohnen, da die Löhne eine feste Menge seien, die zwangsläufig nach einer Erhöhung wieder gesenkt werden würden.
 Dabei trifft er 2 Annahmen, erstens, dass die Menge der nationalen Produktion sei eine feste unveränderliche Menge, zweitens, die Menge des [[Reallohn|Reallohns]] sei ebenfalls eine unveränderliche Menge.
@@ -55,7 +56,7 @@ Da nun ihre Profitrate sinken würde haben sie selber weniger Geld,d ass sie fü
 Die Profitrate von Luxusgütern würde aufgrund von 3 hauptsächlichen Faktoren sinken.
 
 1. Die allgemeine Steigerung des Lohns.
-2. Preissteigerung von für den lebenserhalt notwendigen Güter.
+2. Preissteigerung von für den Lebenserhalt notwendigen Güter.
 3. Preisfall der Luxusartikel
 
 Nun passiert laut Marx das was immer passiert, wenn die Profitrate einer Industrie sinkt, das Kapital, also die Investitionen und auch die Arbeiter wandern von der weniger profitablen Industrie in die profitablere Industrie ab. Hier wandert also das Kapital von den Luxuswahren zu den lebensnotwenigen Wahren ab.
@@ -104,7 +105,7 @@ Die erste Frage die Marx hier beantworten möchte ist, wie der [[Wert]] einer [[
 Er grenzt Wert klar von Tauschwert ab.
 
 Der Wert einer Ware lässt dich durch die menge bzw. die durchschnittliche Menge an Arbeit ausdrücken, die für die Herstellung der Ware aufgewendet wurde.
-Hierbei ist es wichtig, dass ein [[Produkt]] nicht automatisch eine [[Ware]] ist. Ein Produkt, dass selbst nur zum privaten gebrauch hergestellt wird ist hier keine [[Ware]].
+Hierbei ist es wichtig, dass ein [[Produkt]] nicht automatisch eine [[Ware]] ist. Ein Produkt, dass selbst nur zum privaten Gebrauch hergestellt wird ist hier keine [[Ware]].
 
 Eine Ware muss ein gesellschaftliches Bedürfnis erfüllen und Teile anderer gesellschaftlicher Arbeit einbeziehen.
 

@@ -3,7 +3,7 @@ views:
     name: Sicht
     filters:
       and:
-        - file.folder == "Obsidian Vault/Marxismus/Bücher"
+        - file.folder == "main/Marxismus/Bücher"
     order:
       - title
       - author
