@@ -10,6 +10,7 @@
 - [ ] [[Manifest der Kommunistischen Partei - Karl Marx]] (reread)
 - [ ] [[Was tun - Vladimir Il'ič Lenin]]
 - [ ] Warum ich niemals für mein Land kämpfen würde
+- [ ] [[Beschäftigung - Globalisierung - Standort - Margaret Wirth Wolfgang Möhl]]
 - [ ] Staat und Revolution
 - [ ] Demokratie Die perfekte Form bürgerlicher Herrschaft
 - [ ] Der Imperialismus als höchstes Stadium des Kapitalismus
