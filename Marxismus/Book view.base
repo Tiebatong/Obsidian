@@ -9,5 +9,4 @@ views:
       - author
       - gelesen
     image: note.Cover
-    imageFit: contain
     imageAspectRatio: 1.55
