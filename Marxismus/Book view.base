@@ -9,4 +9,6 @@ views:
       - author
       - gelesen
     image: note.Cover
-    imageAspectRatio: 1.55
+    imageAspectRatio: 1.4
+    imageFit: contain
+    cardSize: 220
