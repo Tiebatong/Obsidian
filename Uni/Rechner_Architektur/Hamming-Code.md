@@ -76,3 +76,7 @@ bsp:
 ![[Pasted image 20260328135206.png]]
 
 Die Prüfbits 1 und 4 sind fehlerhaft, also ist das bit an der Position 1 + 4 das fehlerhafte Datenbit. 
+
+
+
+<input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> 
