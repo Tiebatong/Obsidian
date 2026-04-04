@@ -12,7 +12,7 @@ Jetzt werden alle Variablen verodert, die Variablen die = 1 sind werden dabei ne
 Hier erhält man also den Term (a v b v -c)
 
 ## Minterm
-Ein Minterm wird gebildet indem man in der [[Wahrheitstabelle]] an die Stellen guckt, wo die Funktion 1 ist.
+Ein Minterm wird gebildet indem man in der Wahrheitstabelle an die Stellen guckt, wo die Funktion 1 ist.
 
 bsp:
 

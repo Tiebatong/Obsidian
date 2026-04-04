@@ -1,6 +1,6 @@
 Die Carry Flag wir in ALUs verwendet und wird nur bei der Verwendung von positiven Zahlen verwendet.
 
-Das Carry Flag wird dann gesetzt, wenn der letzte [[Adder]] also quasi das höchste bit bei der Addition einen Übertrag erzeugt.
+Das Carry Flag wird dann gesetzt, wenn der letzte [[Carry ripple adder|Adder]] also quasi das höchste bit bei der Addition einen Übertrag erzeugt.
 
 bsp:
 

@@ -19,6 +19,8 @@ Cover: "[[OIP.jpg]]"
 tags:
 gelesen: true
 ---
+### Einleitung
+
   Lohn, Preis und Profit ist das Manuskript eines Vortrages den Marx im ersten Generalrat der (ersten) Internationalen gehalten hat. Dieser Vortrag liegt zeitlich zwischen dem Manifest und dem Kapital.
   
   ![[karl-Marx-Talking-Conference-International-e1556210428274.jpg|275]]

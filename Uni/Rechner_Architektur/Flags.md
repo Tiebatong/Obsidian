@@ -9,4 +9,5 @@ F1 = Overflow Flag, wird gesetzt, wenn einer der beiden letzten C*out* gesetzt i
 
 F2 = nichts
 
-F3 = Zero Flag, wird gesetzt, wenn alle Ausgänge = 0 sind, wird mit NOR umgesetzt. Diese Flag wird bei Sprüngen abgrefragt.
+F3 = Zero Flag, wird gesetzt, wenn alle Ausgänge = 0 sind, wird mit NOR umgesetzt. Diese Flag wird bei Sprüngen abgefragt.
+
