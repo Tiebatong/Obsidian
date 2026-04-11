@@ -15,7 +15,7 @@ Dann wird das Byte des entsprechenden Wortes geladen.
 
 ![[Pasted image 20260209164905.png]]
 
-## Direct maped Cache
+## Direct mapped Cache
 
 Bei Cache Zugriff wird in die entsprechende LINE gegangen, dann wird geprüft ob TAG vorhanden ist wenn ja -> Cache hit.
 Dann wird das Byte des entsprechenden Wortes geladen.
@@ -27,7 +27,7 @@ Dann wird das Byte des entsprechenden Wortes geladen.
 
 Nutzt Ersätzungsstartegie
 
-Quasi mehrere associative Cahces nebeneinander
+Quasi mehrere associative Caches nebeneinander
 
 Bei Cache Zugriff wird erst in die LINE gegangen, dort werden die TAGS geprüft, falls TAG gefunden -> Cache hit.
 Dann wird das Byte des entsprechenden Wortes geladen.
