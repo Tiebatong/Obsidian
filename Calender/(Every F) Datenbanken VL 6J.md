@@ -1,9 +1,9 @@
 ---
 title: Datenbanken VL 6J
 allDay: false
-startTime: 12:30
-endTime: 14:00
+startTime: 22:00
+endTime: 12:00
 type: recurring
-daysOfWeek: [R]
+daysOfWeek: [F]
 startRecur: 2026-04-16
 ---
