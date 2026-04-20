@@ -1,2 +1,1 @@
-
-![[SoSe VL Tabelle.ods]]
+![[Obsidian Vault/SoSe VL Tabelle.ods]]
