@@ -15,3 +15,4 @@ Nodes haben nur für die nächste Node eine Referenz, man kann die Liste also nu
 ## zweifach verkette Listen
 
 Nodes haben eine Referenz für die vorherige und nächste Node, kann in beide Richtungen durchlaufen werden.
+
