@@ -12,7 +12,7 @@ z.B. Eine bestimmte Professorin hält eine bestimmte Vorlesung
 Eigenschaften von Entities oder Beziehungen
 z.B. Geburtstag, Adresse, Titel, Semester
 
-## Entity-Typ
+### Entity-Typ
 Zusammenfassung von Entities mit gleichen Eigenschaften
 z.B. Professoren/Professorinnen, Vorlesungen generell
 
